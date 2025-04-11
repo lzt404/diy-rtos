@@ -1,0 +1,15 @@
+.\objects\lztmbox.o: ..\..\os\lztMBox.c
+.\objects\lztmbox.o: ..\..\os\lztMBox.h
+.\objects\lztmbox.o: .\App\lztConfig.h
+.\objects\lztmbox.o: ..\..\os\lztEvent.h
+.\objects\lztmbox.o: ..\..\os\lztLib.h
+.\objects\lztmbox.o: D:\software\mdk528a\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lztmbox.o: ..\..\os\lztTask.h
+.\objects\lztmbox.o: ..\..\os\lztOS.h
+.\objects\lztmbox.o: ..\..\os\lztSem.h
+.\objects\lztmbox.o: ..\..\os\lztMemBlock.h
+.\objects\lztmbox.o: ..\..\os\lztFlagGroup.h
+.\objects\lztmbox.o: ..\..\os\lztMutex.h
+.\objects\lztmbox.o: ..\..\os\lztTimer.h
+.\objects\lztmbox.o: ..\..\os\lztHooks.h
+.\objects\lztmbox.o: ..\..\os\lztOS.h

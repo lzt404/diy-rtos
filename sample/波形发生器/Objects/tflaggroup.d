@@ -1,0 +1,15 @@
+.\objects\tflaggroup.o: ..\..\os\tFlagGroup.c
+.\objects\tflaggroup.o: ..\..\os\tFlagGroup.h
+.\objects\tflaggroup.o: .\App\tConfig.h
+.\objects\tflaggroup.o: ..\..\os\tEvent.h
+.\objects\tflaggroup.o: ..\..\os\tLib.h
+.\objects\tflaggroup.o: D:\software\mdk528a\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tflaggroup.o: ..\..\os\tTask.h
+.\objects\tflaggroup.o: ..\..\os\tinyOS.h
+.\objects\tflaggroup.o: ..\..\os\tSem.h
+.\objects\tflaggroup.o: ..\..\os\tMBox.h
+.\objects\tflaggroup.o: ..\..\os\tMemBlock.h
+.\objects\tflaggroup.o: ..\..\os\tMutex.h
+.\objects\tflaggroup.o: ..\..\os\tTimer.h
+.\objects\tflaggroup.o: ..\..\os\tHooks.h
+.\objects\tflaggroup.o: ..\..\os\tinyOS.h

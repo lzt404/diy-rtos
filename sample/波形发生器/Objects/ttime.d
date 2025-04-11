@@ -1,0 +1,15 @@
+.\objects\ttime.o: ..\..\os\tTime.c
+.\objects\ttime.o: ..\..\os\tinyOS.h
+.\objects\ttime.o: D:\software\mdk528a\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ttime.o: ..\..\os\tLib.h
+.\objects\ttime.o: .\App\tConfig.h
+.\objects\ttime.o: ..\..\os\tTask.h
+.\objects\ttime.o: ..\..\os\tEvent.h
+.\objects\ttime.o: ..\..\os\tSem.h
+.\objects\ttime.o: ..\..\os\tMBox.h
+.\objects\ttime.o: ..\..\os\tMemBlock.h
+.\objects\ttime.o: ..\..\os\tFlagGroup.h
+.\objects\ttime.o: ..\..\os\tMutex.h
+.\objects\ttime.o: ..\..\os\tTimer.h
+.\objects\ttime.o: ..\..\os\tHooks.h
+.\objects\ttime.o: ..\..\os\tinyOS.h

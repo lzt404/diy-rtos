@@ -1,0 +1,15 @@
+.\objects\tevent.o: ..\..\os\tEvent.c
+.\objects\tevent.o: ..\..\os\tinyOS.h
+.\objects\tevent.o: D:\software\mdk528a\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tevent.o: ..\..\os\tLib.h
+.\objects\tevent.o: .\App\tConfig.h
+.\objects\tevent.o: ..\..\os\tTask.h
+.\objects\tevent.o: ..\..\os\tEvent.h
+.\objects\tevent.o: ..\..\os\tSem.h
+.\objects\tevent.o: ..\..\os\tMBox.h
+.\objects\tevent.o: ..\..\os\tMemBlock.h
+.\objects\tevent.o: ..\..\os\tFlagGroup.h
+.\objects\tevent.o: ..\..\os\tMutex.h
+.\objects\tevent.o: ..\..\os\tTimer.h
+.\objects\tevent.o: ..\..\os\tHooks.h
+.\objects\tevent.o: ..\..\os\tinyOS.h

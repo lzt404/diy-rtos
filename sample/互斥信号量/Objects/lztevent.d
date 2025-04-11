@@ -1,0 +1,15 @@
+.\objects\lztevent.o: ..\..\os\lztEvent.c
+.\objects\lztevent.o: ..\..\os\lztOS.h
+.\objects\lztevent.o: D:\software\mdk528a\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lztevent.o: ..\..\os\lztLib.h
+.\objects\lztevent.o: .\App\lztConfig.h
+.\objects\lztevent.o: ..\..\os\lztTask.h
+.\objects\lztevent.o: ..\..\os\lztEvent.h
+.\objects\lztevent.o: ..\..\os\lztSem.h
+.\objects\lztevent.o: ..\..\os\lztMBox.h
+.\objects\lztevent.o: ..\..\os\lztMemBlock.h
+.\objects\lztevent.o: ..\..\os\lztFlagGroup.h
+.\objects\lztevent.o: ..\..\os\lztMutex.h
+.\objects\lztevent.o: ..\..\os\lztTimer.h
+.\objects\lztevent.o: ..\..\os\lztHooks.h
+.\objects\lztevent.o: ..\..\os\lztOS.h
